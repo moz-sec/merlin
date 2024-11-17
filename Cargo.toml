@@ -1,3 +1,4 @@
+workspace = { members = ["merlin_core"] }
 [package]
 name = "merlin"
 version = "0.1.0"
